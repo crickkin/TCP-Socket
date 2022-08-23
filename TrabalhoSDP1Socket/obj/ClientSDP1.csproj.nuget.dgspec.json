@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Nicolas_Crickkin\\Desktop\\Crickkin Docs\\Sistemas de Informação\\7º período\\Sistemas Distribuidos\\Trabalhos\\TrabalhoSDP1Socket\\TrabalhoSDP1Socket\\TrabalhoSDP1Socket.csproj": {}
+    "C:\\Users\\Nicolas_Crickkin\\Desktop\\Crickkin Docs\\Sistemas de Informação\\7º período\\Sistemas Distribuidos\\Trabalhos\\TrabalhoSDP1Socket\\TrabalhoSDP1Socket\\ClientSDP1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Nicolas_Crickkin\\Desktop\\Crickkin Docs\\Sistemas de Informação\\7º período\\Sistemas Distribuidos\\Trabalhos\\TrabalhoSDP1Socket\\TrabalhoSDP1Socket\\TrabalhoSDP1Socket.csproj": {
+    "C:\\Users\\Nicolas_Crickkin\\Desktop\\Crickkin Docs\\Sistemas de Informação\\7º período\\Sistemas Distribuidos\\Trabalhos\\TrabalhoSDP1Socket\\TrabalhoSDP1Socket\\ClientSDP1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nicolas_Crickkin\\Desktop\\Crickkin Docs\\Sistemas de Informação\\7º período\\Sistemas Distribuidos\\Trabalhos\\TrabalhoSDP1Socket\\TrabalhoSDP1Socket\\TrabalhoSDP1Socket.csproj",
+        "projectUniqueName": "C:\\Users\\Nicolas_Crickkin\\Desktop\\Crickkin Docs\\Sistemas de Informação\\7º período\\Sistemas Distribuidos\\Trabalhos\\TrabalhoSDP1Socket\\TrabalhoSDP1Socket\\ClientSDP1.csproj",
         "projectName": "ClientSDP1",
-        "projectPath": "C:\\Users\\Nicolas_Crickkin\\Desktop\\Crickkin Docs\\Sistemas de Informação\\7º período\\Sistemas Distribuidos\\Trabalhos\\TrabalhoSDP1Socket\\TrabalhoSDP1Socket\\TrabalhoSDP1Socket.csproj",
+        "projectPath": "C:\\Users\\Nicolas_Crickkin\\Desktop\\Crickkin Docs\\Sistemas de Informação\\7º período\\Sistemas Distribuidos\\Trabalhos\\TrabalhoSDP1Socket\\TrabalhoSDP1Socket\\ClientSDP1.csproj",
         "packagesPath": "C:\\Users\\Nicolas_Crickkin\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Nicolas_Crickkin\\Desktop\\Crickkin Docs\\Sistemas de Informação\\7º período\\Sistemas Distribuidos\\Trabalhos\\TrabalhoSDP1Socket\\TrabalhoSDP1Socket\\obj\\",
         "projectStyle": "PackageReference",

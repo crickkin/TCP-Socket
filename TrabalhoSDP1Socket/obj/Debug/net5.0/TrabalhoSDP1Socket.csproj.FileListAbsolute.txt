@@ -1,0 +1,16 @@
+C:\Users\Nicolas_Crickkin\Desktop\Crickkin Docs\Sistemas de Informação\7º período\Sistemas Distribuidos\Trabalhos\TrabalhoSDP1Socket\TrabalhoSDP1Socket\bin\Debug\net5.0\TrabalhoSDP1Socket.exe
+C:\Users\Nicolas_Crickkin\Desktop\Crickkin Docs\Sistemas de Informação\7º período\Sistemas Distribuidos\Trabalhos\TrabalhoSDP1Socket\TrabalhoSDP1Socket\bin\Debug\net5.0\TrabalhoSDP1Socket.deps.json
+C:\Users\Nicolas_Crickkin\Desktop\Crickkin Docs\Sistemas de Informação\7º período\Sistemas Distribuidos\Trabalhos\TrabalhoSDP1Socket\TrabalhoSDP1Socket\bin\Debug\net5.0\TrabalhoSDP1Socket.runtimeconfig.json
+C:\Users\Nicolas_Crickkin\Desktop\Crickkin Docs\Sistemas de Informação\7º período\Sistemas Distribuidos\Trabalhos\TrabalhoSDP1Socket\TrabalhoSDP1Socket\bin\Debug\net5.0\TrabalhoSDP1Socket.runtimeconfig.dev.json
+C:\Users\Nicolas_Crickkin\Desktop\Crickkin Docs\Sistemas de Informação\7º período\Sistemas Distribuidos\Trabalhos\TrabalhoSDP1Socket\TrabalhoSDP1Socket\bin\Debug\net5.0\TrabalhoSDP1Socket.dll
+C:\Users\Nicolas_Crickkin\Desktop\Crickkin Docs\Sistemas de Informação\7º período\Sistemas Distribuidos\Trabalhos\TrabalhoSDP1Socket\TrabalhoSDP1Socket\bin\Debug\net5.0\ref\TrabalhoSDP1Socket.dll
+C:\Users\Nicolas_Crickkin\Desktop\Crickkin Docs\Sistemas de Informação\7º período\Sistemas Distribuidos\Trabalhos\TrabalhoSDP1Socket\TrabalhoSDP1Socket\bin\Debug\net5.0\TrabalhoSDP1Socket.pdb
+C:\Users\Nicolas_Crickkin\Desktop\Crickkin Docs\Sistemas de Informação\7º período\Sistemas Distribuidos\Trabalhos\TrabalhoSDP1Socket\TrabalhoSDP1Socket\obj\Debug\net5.0\TrabalhoSDP1Socket.csproj.AssemblyReference.cache
+C:\Users\Nicolas_Crickkin\Desktop\Crickkin Docs\Sistemas de Informação\7º período\Sistemas Distribuidos\Trabalhos\TrabalhoSDP1Socket\TrabalhoSDP1Socket\obj\Debug\net5.0\TrabalhoSDP1Socket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicolas_Crickkin\Desktop\Crickkin Docs\Sistemas de Informação\7º período\Sistemas Distribuidos\Trabalhos\TrabalhoSDP1Socket\TrabalhoSDP1Socket\obj\Debug\net5.0\TrabalhoSDP1Socket.AssemblyInfoInputs.cache
+C:\Users\Nicolas_Crickkin\Desktop\Crickkin Docs\Sistemas de Informação\7º período\Sistemas Distribuidos\Trabalhos\TrabalhoSDP1Socket\TrabalhoSDP1Socket\obj\Debug\net5.0\TrabalhoSDP1Socket.AssemblyInfo.cs
+C:\Users\Nicolas_Crickkin\Desktop\Crickkin Docs\Sistemas de Informação\7º período\Sistemas Distribuidos\Trabalhos\TrabalhoSDP1Socket\TrabalhoSDP1Socket\obj\Debug\net5.0\TrabalhoSDP1Socket.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas_Crickkin\Desktop\Crickkin Docs\Sistemas de Informação\7º período\Sistemas Distribuidos\Trabalhos\TrabalhoSDP1Socket\TrabalhoSDP1Socket\obj\Debug\net5.0\TrabalhoSDP1Socket.dll
+C:\Users\Nicolas_Crickkin\Desktop\Crickkin Docs\Sistemas de Informação\7º período\Sistemas Distribuidos\Trabalhos\TrabalhoSDP1Socket\TrabalhoSDP1Socket\obj\Debug\net5.0\ref\TrabalhoSDP1Socket.dll
+C:\Users\Nicolas_Crickkin\Desktop\Crickkin Docs\Sistemas de Informação\7º período\Sistemas Distribuidos\Trabalhos\TrabalhoSDP1Socket\TrabalhoSDP1Socket\obj\Debug\net5.0\TrabalhoSDP1Socket.pdb
+C:\Users\Nicolas_Crickkin\Desktop\Crickkin Docs\Sistemas de Informação\7º período\Sistemas Distribuidos\Trabalhos\TrabalhoSDP1Socket\TrabalhoSDP1Socket\obj\Debug\net5.0\TrabalhoSDP1Socket.genruntimeconfig.cache

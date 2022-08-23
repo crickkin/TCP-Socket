@@ -6,5 +6,5 @@ build_property.ProjectTypeGuids =
 build_property.PublishSingleFile = 
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
-build_property.RootNamespace = ClientSDP1
-build_property.ProjectDir = C:\Users\Nicolas_Crickkin\Desktop\Crickkin Docs\Sistemas de Informação\7º período\Sistemas Distribuidos\Trabalhos\TrabalhoSDP1Socket\TrabalhoSDP1Socket\
+build_property.RootNamespace = ServerSDP1
+build_property.ProjectDir = C:\Users\Nicolas_Crickkin\Desktop\Crickkin Docs\Sistemas de Informação\7º período\Sistemas Distribuidos\Trabalhos\TrabalhoSDP1Socket\ServerSDP1\
