@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "TrabalhoSDP1Socket/1.0.0": {
+        "runtime": {
+          "TrabalhoSDP1Socket.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TrabalhoSDP1Socket/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
