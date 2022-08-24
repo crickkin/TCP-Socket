@@ -19,7 +19,6 @@ namespace ServerSDP1
                 Console.WriteLine("client accepted.");
 
                 NetworkStream stream = client.GetStream();
-                StreamReader _reader = new StreamReader(client.GetStream());
                 StreamWriter _writer = new StreamWriter(client.GetStream());
 
                 try
@@ -35,6 +34,7 @@ namespace ServerSDP1
                             usedBytes++;
                         }
                     }
+
                     string request = Encoding.UTF8.GetString(buffer, 0, usedBytes);
                     Console.WriteLine("request received: " + request);
                     _writer.WriteLine("Message received succefully!");
@@ -45,6 +45,7 @@ namespace ServerSDP1
                     Console.WriteLine("something went wrong..."); 
                     Console.WriteLine("\n\n============\n\n" + e.Message + "\n\n============\n\n");
                     Console.ReadKey();
+                    break;
                 }
             }
         }
